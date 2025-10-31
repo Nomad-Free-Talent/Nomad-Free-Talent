@@ -1,4 +1,4 @@
-# Hi, Developers 👋. This is Erik.
+# Hi, Developers 👋.
 
 <meta name="google-site-verification" content="r8lTtX1RTZdwBm0v5qGZPKVKb7o2MZ1GdBhcbIzv2Gk" />
 
